@@ -1,0 +1,1 @@
+"undefined"!=typeof i18n?i18n.add({"en-US":{months:{full:["January","February","March","April","May","June","July","August","September","October","November","December"],abbrv:["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]}}}):setTimeout(function(){throw new Error("i18n is not defined 😭")});
